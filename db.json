@@ -1,0 +1,18 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "akasham pole",
+      "url": "https://assetscdn1.paytm.com/images/cinema/12-0d0dfa60-8efe-11ec-9b94-392ea496e36d.jpg",
+      "embededLink": "https://www.youtube.com/embed/HYrFYulslb8"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "heeriye",
+      "allVideos": [],
+      "id": 1
+    }
+  ],
+  "history": []
+}
